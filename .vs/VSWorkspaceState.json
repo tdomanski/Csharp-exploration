@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Part1",
+    "\\Part1\\HelloWorld"
   ],
-  "SelectedNode": "\\Level3",
+  "SelectedNode": "\\Part1\\HelloWorld\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
